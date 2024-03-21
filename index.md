@@ -399,6 +399,7 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <hr/>
 
+Additional git learning material, especially regarding branching, can be found in the alternative git lesson in the [carpentry lesson incubator](https://carpentries-incubator.github.io/git-novice-branch-pr/)
 
 {% comment %}
 SETUP
