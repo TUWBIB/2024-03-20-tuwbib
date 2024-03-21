@@ -409,7 +409,7 @@ Python cheat sheets
 [Python cheat sheet for beginners](files/Python_Cheat_Sheet4.pdf)
 [Additional python cheat sheets ](files/beginners_python_cheat_sheet_pcc_all.pdf)
 
-
+{% comment %}
 SETUP
 
 Delete irrelevant sections from the setup instructions.  Each
