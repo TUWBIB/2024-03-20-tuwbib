@@ -408,8 +408,8 @@ especially regarding branching, can be found in the alternative git lesson in th
 
 
 <h3 id="pytCheet">Python cheat sheets</h3>
-[Python cheat sheet for beginners](files/Python_Cheat_Sheet4.pdf)
-[Additional python cheat sheets ](files/beginners_python_cheat_sheet_pcc_all.pdf)
+[Python cheat sheet for beginners](/files/Python_Cheat_Sheet4.pdf)
+[Additional python cheat sheets](/files/beginners_python_cheat_sheet_pcc_all.pdf)
 
 {% comment %}
 SETUP
