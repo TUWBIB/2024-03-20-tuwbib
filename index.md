@@ -403,14 +403,13 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 
 <h3 id="gitMat">Additional git material</h3>
-especially regarding branching, can be found in the alternative git lesson in the [carpentry lesson incubator](https://carpentries-incubator.github.io/git-novice-branch-pr)
+especially regarding branching, can be found in the alternative git lesson in the <a href="[https://tuwbib.github.io/2024-03-20-tuwbib/files/Python_Cheat_Sheet4.pdf](https://carpentries-incubator.github.io/git-novice-branch-pr)">carpentry lesson incubator</a>
 
 
 
 <h3 id="pytCheet">Python cheat sheets</h3>
-<a href=site.github.project_title+"/files/Python_Cheat_Sheet4.pdf">Python cheat sheet for beginner</a>
-[Python cheat sheet for beginners](/files/Python_Cheat_Sheet4.pdf)
-[Additional python cheat sheets](/files/beginners_python_cheat_sheet_pcc_all.pdf)
+<a href="https://tuwbib.github.io/2024-03-20-tuwbib/files/Python_Cheat_Sheet4.pdf">Python cheat sheet for beginner</a>
+<a href="https://tuwbib.github.io/2024-03-20-tuwbib/files/beginners_python_cheat_sheet_pcc_all.pdf">Additional python cheat sheets</a>
 
 {% comment %}
 SETUP
