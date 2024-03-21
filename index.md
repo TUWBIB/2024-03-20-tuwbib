@@ -399,7 +399,7 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <hr/>
 
-<h3 id="setup">ADDITIONAL MATERIAL</h3>
+<h3 id="setup">Additional Material</h3>
 
 
 <h4 id="gitMat">Additional git material</h4>
