@@ -399,13 +399,15 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <hr/>
 
+<h2 id="setup">ADDITIONAL MATERIAL</h2>
 
-ADDITIONAL MATERIAL
 
-Additional git material
+<h3 id="gitMat">Additional git material</h3>
 especially regarding branching, can be found in the alternative git lesson in the [carpentry lesson incubator](https://carpentries-incubator.github.io/git-novice-branch-pr)
 
-Python cheat sheets
+
+
+<h3 id="pytCheet">Python cheat sheets</h3>
 [Python cheat sheet for beginners](files/Python_Cheat_Sheet4.pdf)
 [Additional python cheat sheets ](files/beginners_python_cheat_sheet_pcc_all.pdf)
 
